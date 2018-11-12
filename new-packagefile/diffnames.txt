@@ -1,0 +1,569 @@
+force-app/main/default/applications/Watch.app-meta.xml
+force-app/main/default/applications/Watch_Lightning.app-meta.xml
+force-app/main/default/classes/APTPS_AccountShareSyncCTRL_Test.cls
+force-app/main/default/classes/APTPS_AgreeGenerateController.cls
+force-app/main/default/classes/APTPS_AgreeGenerateControllerTest.cls
+force-app/main/default/classes/APTPS_AgreementClauseTriggerTest.cls
+force-app/main/default/classes/APTPS_AgreementTriggerHandler.cls
+force-app/main/default/classes/APTPS_AgreementTriggerService.cls
+force-app/main/default/classes/APTPS_AgreementTriggerService.cls-meta.xml
+force-app/main/default/classes/APTPS_AgreementTriggerTest.cls
+force-app/main/default/classes/APTPS_AgrtLineItemTriggerHandlerTest.cls
+force-app/main/default/classes/APTPS_AnualAPIChangeHandlerTest.cls
+force-app/main/default/classes/APTPS_ApprovalRequestTriggerHandlerTest.cls
+force-app/main/default/classes/APTPS_BillingNotificationHelperTest.cls
+force-app/main/default/classes/APTPS_CartApprovalCloneHandler.cls
+force-app/main/default/classes/APTPS_CartApprovalCloneHandler.cls-meta.xml
+force-app/main/default/classes/APTPS_CartApprovalCloneHandlerTest.cls
+force-app/main/default/classes/APTPS_CategoryController.cls
+force-app/main/default/classes/APTPS_CategoryController.cls-meta.xml
+force-app/main/default/classes/APTPS_CategoryControllerTest.cls
+force-app/main/default/classes/APTPS_CategoryControllerTest.cls-meta.xml
+force-app/main/default/classes/APTPS_CopyAccShareAgrPropShrQableTest.cls
+force-app/main/default/classes/APTPS_CustomLineItemsSortTest.cls
+force-app/main/default/classes/APTPS_DeliveryBillingSchedular.cls
+force-app/main/default/classes/APTPS_DeliveryBillingSchedularTest.cls
+force-app/main/default/classes/APTPS_DocuSignEnvRecpStatTriggerTest.cls
+force-app/main/default/classes/APTPS_ImportDocumentCTRLTest.cls
+force-app/main/default/classes/APTPS_Init_AccountShare_SyncBatchTest.cls
+force-app/main/default/classes/APTPS_LineItemAttributesTest.cls
+force-app/main/default/classes/APTPS_LineItemTriggerHandler.cls
+force-app/main/default/classes/APTPS_LineItemTriggerHandlerTest.cls
+force-app/main/default/classes/APTPS_LineItemsAttributes.cls
+force-app/main/default/classes/APTPS_Opportunityhelper.cls
+force-app/main/default/classes/APTPS_OpportunityhelperTest.cls
+force-app/main/default/classes/APTPS_PriceListItemTriggerHandlerTest.cls
+force-app/main/default/classes/APTPS_PricingCallBack.cls
+force-app/main/default/classes/APTPS_PricingCallBack.cls-meta.xml
+force-app/main/default/classes/APTPS_PricingCallBackTest.cls
+force-app/main/default/classes/APTPS_ProductAttributeTriggerHandlerTest.cls
+force-app/main/default/classes/APTPS_ProductConfigurationTriggerTest.cls
+force-app/main/default/classes/APTPS_ProposalAcceptTest.cls
+force-app/main/default/classes/APTPS_ProposalDenyTest.cls
+force-app/main/default/classes/APTPS_ProposalLineItemTriggerHandlerTest.cls
+force-app/main/default/classes/APTPS_ProposalTriggerHandler.cls
+force-app/main/default/classes/APTPS_ProposalTriggerService.cls
+force-app/main/default/classes/APTPS_ProposalTriggerTest.cls
+force-app/main/default/classes/APTPS_ReassignToSalesRepCTRLTest.cls
+force-app/main/default/classes/APTPS_RelatedAgreementTriggerTest.cls
+force-app/main/default/classes/APTPS_TestDataFactory.cls
+force-app/main/default/classes/APTPS_UdateLIHeaderPrpslTriggerTest.cls
+force-app/main/default/classes/APTPS_UtilityFnsTest.cls
+force-app/main/default/classes/APTPS_ValidationCallback.cls
+force-app/main/default/classes/APTPS_ValidationCallback.cls-meta.xml
+force-app/main/default/classes/APTPS_ValidationCallbackTest.cls
+force-app/main/default/classes/APTPS_ViewDeliveryBillingSchCtrl.cls
+force-app/main/default/classes/APTPS_ViewDeliveryBillingSchCtrlTest.cls
+force-app/main/default/classes/APTPS_ViewDeliveryBillingSchedulesCtrl.cls
+force-app/main/default/classes/APTPS_autoActivateAgreementQueueableTest.cls
+force-app/main/default/classes/APTPS_createProposalControllerTest.cls
+force-app/main/default/classes/AccountHierarchyServicesTest.cls
+force-app/main/default/classes/AccountTriggerHandler.cls
+force-app/main/default/classes/AccountTriggerHandler.cls-meta.xml
+force-app/main/default/classes/AccountTriggerHandlerTest.cls
+force-app/main/default/classes/AccountTriggerHandlerTest.cls-meta.xml
+force-app/main/default/classes/AccountTriggerService.cls
+force-app/main/default/classes/AccountTriggerService.cls-meta.xml
+force-app/main/default/classes/AccountTriggerServiceTest.cls
+force-app/main/default/classes/AccountTriggerServiceTest.cls-meta.xml
+force-app/main/default/classes/ApprovalIntermediatePageControllerTest.cls
+force-app/main/default/classes/ApprovalIntermediatePageController_Test2.cls
+force-app/main/default/classes/AttachmentOppHandlerTest.cls
+force-app/main/default/classes/GateKeeperApprovalHelperTest.cls
+force-app/main/default/classes/GatekeeperApprovalProcessTest1.cls
+force-app/main/default/classes/GatekeeperApprovalProcessTest1.cls-meta.xml
+force-app/main/default/classes/GatekeeperApprovalProcessTest2.cls
+force-app/main/default/classes/GatekeeperApprovalProcessTest2.cls-meta.xml
+force-app/main/default/classes/GatekeeperReviewPageExtension_Test.cls
+force-app/main/default/classes/INTRAPOCProductInformationControllerTest.cls
+force-app/main/default/classes/IntraPOCCharacteristicsHandlerTest.cls
+force-app/main/default/classes/IntraPOCHelperClass.cls
+force-app/main/default/classes/IntraPocUtil_Test.cls
+force-app/main/default/classes/LeadTriggerHandler.cls
+force-app/main/default/classes/LeadTriggerHandler.cls-meta.xml
+force-app/main/default/classes/LockRecordServiceTest.cls
+force-app/main/default/classes/MaterialsConfigurator.cls
+force-app/main/default/classes/MaterialsConfigurator.cls-meta.xml
+force-app/main/default/classes/MaterialsConfiguratorTest.cls
+force-app/main/default/classes/MaterialsConfiguratorTest.cls-meta.xml
+force-app/main/default/classes/Milestone1_GettingStartedController.cls
+force-app/main/default/classes/Milestone1_GettingStartedControllerTest.cls
+force-app/main/default/classes/Milestone1_GettingStartedControllerTest.cls-meta.xml
+force-app/main/default/classes/OppContactRoleAddRemoveExtensionTest.cls
+force-app/main/default/classes/OppGateKeeperApprovalValidationHandler.cls
+force-app/main/default/classes/OppGatekeeperApprovalValHandlerTest.cls
+force-app/main/default/classes/OppGatekeeperApprovalValHandlerTest.cls-meta.xml
+force-app/main/default/classes/OppIntOpportunityServiceTest.cls
+force-app/main/default/classes/OppSAPCRValidationHandlerTest.cls
+force-app/main/default/classes/OppSoldBillUpdateHandlerTest.cls
+force-app/main/default/classes/OppValidateClosedWonHandlerTest.cls
+force-app/main/default/classes/OppValidateClosedWonLineItemHandlerTest.cls
+force-app/main/default/classes/OppValidateINTRPOCProductAmtHandlerTest.cls
+force-app/main/default/classes/OppValidateIntraPOCProductDelHandlerTest.cls
+force-app/main/default/classes/OpportunityCloseWonForNonEUService.cls
+force-app/main/default/classes/OpportunityCloseWonForNonEUServiceTest.cls
+force-app/main/default/classes/OpportunityDateValidationHandler.cls
+force-app/main/default/classes/OpportunityDateValidationHandlerTest.cls
+force-app/main/default/classes/OpportunityLineItemTriggerHandler.cls
+force-app/main/default/classes/OpportunityLineItemTriggerHandlerTest.cls
+force-app/main/default/classes/OpportunityPlaceholderHandlerTest.cls
+force-app/main/default/classes/OpportunityPlaceholderService.cls
+force-app/main/default/classes/OpportunityPlaceholderServiceTest.cls
+force-app/main/default/classes/OpportunitySBSValidationHandlerTest.cls
+force-app/main/default/classes/OpportunityStageHandler.cls
+force-app/main/default/classes/OpportunityStageHandler.cls-meta.xml
+force-app/main/default/classes/OpportunityStageHandlerTest.cls
+force-app/main/default/classes/OpportunityStageHandlerTest.cls-meta.xml
+force-app/main/default/classes/OpportunityValidationHandler.cls
+force-app/main/default/classes/OpportunityValidationHandlerTest.cls
+force-app/main/default/classes/OrgInformationHelper.cls
+force-app/main/default/classes/OrgInformationHelper.cls-meta.xml
+force-app/main/default/classes/OrgInformationHelperTest.cls
+force-app/main/default/classes/OrgInformationHelperTest.cls-meta.xml
+force-app/main/default/classes/Product.cls
+force-app/main/default/classes/ProductLineItem.cls
+force-app/main/default/classes/ProductLineItem.cls-meta.xml
+force-app/main/default/classes/ProductLineItemTest.cls
+force-app/main/default/classes/ProductLineItemTest.cls-meta.xml
+force-app/main/default/classes/ProductPickerController.cls
+force-app/main/default/classes/ProductPickerController.cls-meta.xml
+force-app/main/default/classes/ProductPickerControllerTest.cls
+force-app/main/default/classes/ProductPickerControllerTest.cls-meta.xml
+force-app/main/default/classes/ProductPickerTestUtils.cls
+force-app/main/default/classes/ProductService.cls
+force-app/main/default/classes/ProductService.cls-meta.xml
+force-app/main/default/classes/ProductServiceTest.cls
+force-app/main/default/classes/ProductTest.cls
+force-app/main/default/classes/ProductTest.cls-meta.xml
+force-app/main/default/classes/SAPAccountRequestHelper.cls
+force-app/main/default/classes/SAPClientImplTest.cls
+force-app/main/default/classes/SAPContactCreationJobTest.cls
+force-app/main/default/classes/SAPContractHelperTest.cls
+force-app/main/default/classes/ScheduleService.cls
+force-app/main/default/classes/ScheduleService.cls-meta.xml
+force-app/main/default/classes/ScheduleServiceTest.cls
+force-app/main/default/classes/ScheduleServiceTest.cls-meta.xml
+force-app/main/default/classes/UpdateDeliveryHelper.cls
+force-app/main/default/classes/UpdateDeliveryHelper.cls-meta.xml
+force-app/main/default/classes/UpdateDeliveryHelperTest.cls
+force-app/main/default/classes/UpdateDeliveryHelperTest.cls-meta.xml
+force-app/main/default/components/OpportunityDetails.component
+force-app/main/default/customMetadata/Trigger_Handler.OpportunityStageHandler.md-meta.xml
+force-app/main/default/email/Apttus_Config2__ApttusCPQEmailTemplates/APTPS_Collaboration_Request_Assigned.email
+force-app/main/default/email/Apttus_Config2__ApttusCPQEmailTemplates/APTPS_Collaboration_Request_Assigned.email-meta.xml
+force-app/main/default/email/Apttus_Config2__ApttusCPQEmailTemplates/APTPS_Collaboration_Request_Cancelled.email
+force-app/main/default/email/Apttus_Config2__ApttusCPQEmailTemplates/APTPS_Collaboration_Request_Cancelled.email-meta.xml
+force-app/main/default/email/Apttus_Config2__ApttusCPQEmailTemplates/APTPS_Collaboration_Request_Completed.email
+force-app/main/default/email/Apttus_Config2__ApttusCPQEmailTemplates/APTPS_Collaboration_Request_Completed.email-meta.xml
+force-app/main/default/email/Apttus_Config2__ApttusCPQEmailTemplates/APTPS_Collaboration_Request_Updated.email
+force-app/main/default/email/Apttus_Config2__ApttusCPQEmailTemplates/APTPS_Collaboration_Request_Updated.email-meta.xml
+force-app/main/default/email/Apttus_Config2__ApttusCPQEmailTemplates/APTPS_Request_Reject_Template_Proposal.email
+force-app/main/default/email/Apttus_Config2__ApttusCPQEmailTemplates/Collaboration_Request_Assigned.email
+force-app/main/default/email/Apttus__ApttusEmailTemplates/APTPS_ApttusCartApprovalAssignEmail.email
+force-app/main/default/email/Apttus__ApttusEmailTemplates/APTPS_ApttusCartApprovalEscalationEmail.email
+force-app/main/default/email/Apttus__ApttusEmailTemplates/APTPS_ApttusCartApprovalNotifyOnlyEmail.email
+force-app/main/default/email/Apttus__ApttusEmailTemplates/APTPS_ApttusCartApprovalReassignEmail.email
+force-app/main/default/email/Apttus__ApttusEmailTemplates/APTPS_EmailTemplateForPresentingProposals.email
+force-app/main/default/email/Apttus__ApttusEmailTemplates/APTPS_EmailTemplateForPresentingProposals.email-meta.xml
+force-app/main/default/flowDefinitions/Accept_or_Reject_Risk_flow.flowDefinition-meta.xml
+force-app/main/default/flowDefinitions/Close_Lead_Task_after_conversion.flowDefinition-meta.xml
+force-app/main/default/flowDefinitions/Close_Lead_Tasks_after_Conversion.flowDefinition-meta.xml
+force-app/main/default/flowDefinitions/CreateOpportunityFromTask.flowDefinition-meta.xml
+force-app/main/default/flowDefinitions/Credit_Check_Request_Creation_V1.flowDefinition-meta.xml
+force-app/main/default/flowDefinitions/Default_Opportunity_Sales_Org.flowDefinition-meta.xml
+force-app/main/default/flowDefinitions/Delete_Deliveries.flowDefinition-meta.xml
+force-app/main/default/flowDefinitions/SSC_Rule_on_Right_First_Time.flowDefinition-meta.xml
+force-app/main/default/flowDefinitions/Update_Ownership_of_multiple_Deliveries.flowDefinition-meta.xml
+force-app/main/default/flowDefinitions/WMG_178_Notify_MACs_that_a_new_Opportunity_has_been_created.flowDefinition-meta.xml
+force-app/main/default/flowDefinitions/WMG_Create_Subject_Lines_On_Case.flowDefinition-meta.xml
+force-app/main/default/flows/APTPS_Agreement_Approval_Status-4.flow-meta.xml
+force-app/main/default/flows/Accept_or_Reject_Risk_flow-62.flow-meta.xml
+force-app/main/default/flows/Accept_or_Reject_Risk_flow-63.flow-meta.xml
+force-app/main/default/flows/Accept_or_Reject_Risk_flow-64.flow-meta.xml
+force-app/main/default/flows/Close_Lead_Task_after_conversion-1.flow-meta.xml
+force-app/main/default/flows/Close_Lead_Tasks_after_Conversion-3.flow-meta.xml
+force-app/main/default/flows/Close_Lead_Tasks_after_Conversion-4.flow-meta.xml
+force-app/main/default/flows/CreateOpportunityFromTask-14.flow-meta.xml
+force-app/main/default/flows/Credit_Check_Request_Creation_V1-29.flow-meta.xml
+force-app/main/default/flows/Default_Opportunity_Sales_Org-6.flow-meta.xml
+force-app/main/default/flows/Delete_Deliveries-5.flow-meta.xml
+force-app/main/default/flows/Update_Ownership_of_multiple_Deliveries-25.flow-meta.xml
+force-app/main/default/flows/WMG_178_Notify_MACs_that_a_new_Opportunity_has_been_created-5.flow-meta.xml
+force-app/main/default/flows/WMG_Create_Subject_Lines_On_Case-15.flow-meta.xml
+force-app/main/default/globalValueSets/APTPS_Billing_Frequency.globalValueSet-meta.xml
+force-app/main/default/globalValueSets/APTPS_Clause_Approvers.globalValueSet-meta.xml
+force-app/main/default/globalValueSets/Brand.globalValueSet-meta.xml
+force-app/main/default/globalValueSets/Practice_Area.globalValueSet-meta.xml
+force-app/main/default/globalValueSets/Sub_Brand.globalValueSet-meta.xml
+force-app/main/default/groups/SSC_LATAM_CO_BAU.group-meta.xml
+force-app/main/default/groups/SSC_LATAM_CO_DEV.group-meta.xml
+force-app/main/default/groups/SSC_LATAM_CO_RL.group-meta.xml
+force-app/main/default/groups/SSC_LATAM_CO_SD.group-meta.xml
+force-app/main/default/groups/SSC_NOC_RD_BE.group-meta.xml
+force-app/main/default/groups/SSC_NOC_RD_NL.group-meta.xml
+force-app/main/default/groups/Singapore_Prospects.group-meta.xml
+force-app/main/default/groups/Watch_AAS_Reports.group-meta.xml
+force-app/main/default/groups/Watch_RSS_Reports.group-meta.xml
+force-app/main/default/labels/CustomLabels.labels-meta.xml
+force-app/main/default/layouts/Account-Admin - Customer Account Page Layout.layout-meta.xml
+force-app/main/default/layouts/Account-Page Layout for Sales Accounts.layout-meta.xml
+force-app/main/default/layouts/Account-Watch Account UNIFIED v2.layout-meta.xml
+force-app/main/default/layouts/Apttus_Config2__ProductConfiguration__c-Apttus_Config2__Product Configuration Layout.layout-meta.xml
+force-app/main/default/layouts/Apttus_Proposal__Proposal__c-Ad-hoc Proposal Layout.layout-meta.xml
+force-app/main/default/layouts/Apttus_Proposal__Proposal__c-Apttus_Proposal__Proposal Layout.layout-meta.xml
+force-app/main/default/layouts/Apttus__APTS_Agreement__c-Adhoc.layout-meta.xml
+force-app/main/default/layouts/Apttus__APTS_Agreement__c-Apttus__Agreement Layout.layout-meta.xml
+force-app/main/default/layouts/Apttus__APTS_Agreement__c-General.layout-meta.xml
+force-app/main/default/layouts/Apttus__APTS_Agreement__c-LA.layout-meta.xml
+force-app/main/default/layouts/Apttus__APTS_Agreement__c-LSA.layout-meta.xml
+force-app/main/default/layouts/Apttus__APTS_Agreement__c-MS.layout-meta.xml
+force-app/main/default/layouts/Apttus__APTS_Agreement__c-MSA.layout-meta.xml
+force-app/main/default/layouts/Case-AAS Training Request.layout-meta.xml
+force-app/main/default/layouts/Case-Agency Admin Case.layout-meta.xml
+force-app/main/default/layouts/Case-CasePL - US - AdSolutions.layout-meta.xml
+force-app/main/default/layouts/Case-CasePL - US EV Login%2FActivation%2FClearance Case.layout-meta.xml
+force-app/main/default/layouts/Case-Control Panel Reports - Diary.layout-meta.xml
+force-app/main/default/layouts/Case-Control Panel Reports.layout-meta.xml
+force-app/main/default/layouts/Case-Express Analytics.layout-meta.xml
+force-app/main/default/layouts/Case-PDA Web Feedback Form.layout-meta.xml
+force-app/main/default/layouts/Case-PPM Analysis Tool Feedback.layout-meta.xml
+force-app/main/default/layouts/Case-Salesforce Help Admin Layout.layout-meta.xml
+force-app/main/default/layouts/Case-Station Transaction.layout-meta.xml
+force-app/main/default/layouts/Case-TAPSCAN Web Feedback Form.layout-meta.xml
+force-app/main/default/layouts/Case-TLR Request - Diary.layout-meta.xml
+force-app/main/default/layouts/Case-TLR Request - PPM.layout-meta.xml
+force-app/main/default/layouts/Event-Event Layout.layout-meta.xml
+force-app/main/default/layouts/Global-Global Layout for Lightning.layout-meta.xml
+force-app/main/default/layouts/Global-Global Layout.layout-meta.xml
+force-app/main/default/layouts/Opportunity-Opportunity Layout - Q2C.layout-meta.xml
+force-app/main/default/layouts/Opportunity-Opportunity Layout.layout-meta.xml
+force-app/main/default/layouts/Opportunity-Watch Opportunity Layout %28FINAL%29.layout-meta.xml
+force-app/main/default/layouts/Product_Sales_Org__c-Product Sales Org Layout.layout-meta.xml
+force-app/main/default/layouts/User-User Layout.layout-meta.xml
+force-app/main/default/objects/APTPS_Line_Item_Options__c/fields/APTPS_Line_Item_End_Date__c.field-meta.xml
+force-app/main/default/objects/APTPS_Line_Item_Options__c/fields/APTPS_Line_Item_Start_Date__c.field-meta.xml
+force-app/main/default/objects/APTPS_Line_Item_Options__c/fields/APTPS_Line_Item_Term_in_Months__c.field-meta.xml
+force-app/main/default/objects/Account/Account.object-meta.xml
+force-app/main/default/objects/Account/fields/Agency_Region__c.field-meta.xml
+force-app/main/default/objects/Account/fields/Agency__c.field-meta.xml
+force-app/main/default/objects/Account/fields/Buy_or_Watch__c.field-meta.xml
+force-app/main/default/objects/Account/fields/CBP__c.field-meta.xml
+force-app/main/default/objects/Account/fields/Core_Pricing_Type__c.field-meta.xml
+force-app/main/default/objects/Account/fields/Data_Processor_RSS__c.field-meta.xml
+force-app/main/default/objects/Account/fields/Digital_Agency__c.field-meta.xml
+force-app/main/default/objects/Account/fields/LNV_Date__c.field-meta.xml
+force-app/main/default/objects/Account/fields/Leadership_Team__c.field-meta.xml
+force-app/main/default/objects/Account/fields/Market__c.field-meta.xml
+force-app/main/default/objects/Account/fields/NRS_Subscriber__c.field-meta.xml
+force-app/main/default/objects/Account/fields/Num_of_Scarb_Booklet_Contacts__c.field-meta.xml
+force-app/main/default/objects/Account/fields/Sales_Group_Acct__c.field-meta.xml
+force-app/main/default/objects/Account/fields/State_of_Organization__c.field-meta.xml
+force-app/main/default/objects/Account/fields/TSC__c.field-meta.xml
+force-app/main/default/objects/Account/fields/Vertical__c.field-meta.xml
+force-app/main/default/objects/Account/fields/Watch_Account_SubType__c.field-meta.xml
+force-app/main/default/objects/Account/recordTypes/Market_L3.recordType-meta.xml
+force-app/main/default/objects/Account/validationRules/Customer_Accounts_core_or_non_core.validationRule-meta.xml
+force-app/main/default/objects/Account/validationRules/Q2C_Account_Industry_Required.validationRule-meta.xml
+force-app/main/default/objects/Activity/fields/Contact_Follow_up__c.field-meta.xml
+force-app/main/default/objects/Activity/fields/End_Date__c.field-meta.xml
+force-app/main/default/objects/Activity/fields/Opportunity_Created_if_not_why__c.field-meta.xml
+force-app/main/default/objects/Activity/fields/Start_Date__c.field-meta.xml
+force-app/main/default/objects/Apttus_Approval__Approval_Request__c/fields/APTPS_Account_Name__c.field-meta.xml
+force-app/main/default/objects/Apttus_Approval__Approval_Request__c/fields/APTPS_Annual_Contract_Value__c.field-meta.xml
+force-app/main/default/objects/Apttus_Approval__Approval_Request__c/fields/APTPS_Expected_Start_Date__c.field-meta.xml
+force-app/main/default/objects/Apttus_Approval__Approval_Request__c/fields/APTPS_Outline_of_Solution_Design__c.field-meta.xml
+force-app/main/default/objects/Apttus_Approval__Approval_Request__c/fields/APTPS_Proposal_ID_or_Agreement_ID__c.field-meta.xml
+force-app/main/default/objects/Apttus_Approval__Approval_Request__c/fields/APTPS_Proposal_Name_or_Agreement_Name__c.field-meta.xml
+force-app/main/default/objects/Apttus_Approval__Approval_Request__c/fields/APTPS_Requested_Date__c.field-meta.xml
+force-app/main/default/objects/Apttus_Approval__Approval_Request__c/fields/APTPS_Requester_Name__c.field-meta.xml
+force-app/main/default/objects/Apttus_Approval__Approval_Request__c/listViews/Level_1_Mfg_Analytics_Approval_Request.listView-meta.xml
+force-app/main/default/objects/Apttus_Approval__Approval_Request__c/listViews/Level_1_Mfg_Client_Service_Approval_Request.listView-meta.xml
+force-app/main/default/objects/Apttus_Approval__Approval_Request__c/listViews/Level_1_Mfg_Global_Services_Approval_Request.listView-meta.xml
+force-app/main/default/objects/Apttus_Approval__Approval_Request__c/listViews/Level_1_Mfg_Panel_Approval_Request.listView-meta.xml
+force-app/main/default/objects/Apttus_Approval__Approval_Request__c/listViews/Level_1_Mfg_RMS_Approval_Request.listView-meta.xml
+force-app/main/default/objects/Apttus_Approval__Approval_Request__c/listViews/Level_1_Mfg_Spectra_Approval_Request.listView-meta.xml
+force-app/main/default/objects/Apttus_Approval__Approval_Request__c/listViews/Level_1_Mfg_TDLinx_Approval_Request.listView-meta.xml
+force-app/main/default/objects/Apttus_Approval__Approval_Request__c/listViews/Level_2_Mfg_Analytics_Approval_Request.listView-meta.xml
+force-app/main/default/objects/Apttus_Approval__Approval_Request__c/listViews/Level_2_Mfg_Client_Service_Approval_Request.listView-meta.xml
+force-app/main/default/objects/Apttus_Approval__Approval_Request__c/listViews/Level_2_Mfg_Global_Services_Approval_Request.listView-meta.xml
+force-app/main/default/objects/Apttus_Approval__Approval_Request__c/listViews/Level_2_Mfg_Panel_Approval_Request.listView-meta.xml
+force-app/main/default/objects/Apttus_Approval__Approval_Request__c/listViews/Level_2_Mfg_RMS_Approval_Request.listView-meta.xml
+force-app/main/default/objects/Apttus_Approval__Approval_Request__c/listViews/Level_2_Mfg_Spectra_Approval_Request.listView-meta.xml
+force-app/main/default/objects/Apttus_Approval__Approval_Request__c/listViews/Level_2_Mfg_TDLinx_Approval_Request.listView-meta.xml
+force-app/main/default/objects/Apttus_Approval__Approval_Request__c/listViews/Level_3_Mfg_Analytics_Approval_Request.listView-meta.xml
+force-app/main/default/objects/Apttus_Approval__Approval_Request__c/listViews/Level_3_Mfg_Client_Service_Approval_Request.listView-meta.xml
+force-app/main/default/objects/Apttus_Approval__Approval_Request__c/listViews/Level_3_Mfg_Global_Services_Approval_Request.listView-meta.xml
+force-app/main/default/objects/Apttus_Approval__Approval_Request__c/listViews/Level_3_Mfg_Panel_Approval_Request.listView-meta.xml
+force-app/main/default/objects/Apttus_Approval__Approval_Request__c/listViews/Level_3_Mfg_RMS_Approval_Request.listView-meta.xml
+force-app/main/default/objects/Apttus_Approval__Approval_Request__c/listViews/Level_3_Mfg_Spectra_Approval_Request.listView-meta.xml
+force-app/main/default/objects/Apttus_Approval__Approval_Request__c/listViews/Level_3_Mfg_TDLinx_Approval_Request.listView-meta.xml
+force-app/main/default/objects/Apttus_Approval__Approval_Request__c/listViews/Level_4_Mfg_Analytics_Approval_Request.listView-meta.xml
+force-app/main/default/objects/Apttus_Approval__Approval_Request__c/listViews/Level_4_Mfg_Client_Service_Approval_Request.listView-meta.xml
+force-app/main/default/objects/Apttus_Approval__Approval_Request__c/listViews/Level_4_Mfg_Global_Services_Approval_Request.listView-meta.xml
+force-app/main/default/objects/Apttus_Approval__Approval_Request__c/listViews/Level_4_Mfg_Panel_Approval_Request.listView-meta.xml
+force-app/main/default/objects/Apttus_Approval__Approval_Request__c/listViews/Level_4_Mfg_RMS_Approval_Request.listView-meta.xml
+force-app/main/default/objects/Apttus_Approval__Approval_Request__c/listViews/Level_4_Mfg_Spectra_Approval_Request.listView-meta.xml
+force-app/main/default/objects/Apttus_Approval__Approval_Request__c/listViews/Level_4_Mfg_TDLinx_Approval_Request.listView-meta.xml
+force-app/main/default/objects/Apttus_Approval__Approval_Request__c/listViews/Level_5_Finance_Approval_Request.listView-meta.xml
+force-app/main/default/objects/Apttus_Approval__Approval_Request__c/listViews/Level_5_Mfg_Analytics_Approval_Request.listView-meta.xml
+force-app/main/default/objects/Apttus_Approval__Approval_Request__c/listViews/Level_5_Mfg_Client_Service_Approval_Request.listView-meta.xml
+force-app/main/default/objects/Apttus_Approval__Approval_Request__c/listViews/Level_5_Mfg_Global_Services_Approval_Request.listView-meta.xml
+force-app/main/default/objects/Apttus_Approval__Approval_Request__c/listViews/Level_5_Mfg_Panel_Approval_Request.listView-meta.xml
+force-app/main/default/objects/Apttus_Approval__Approval_Request__c/listViews/Level_5_Mfg_RMS_Approval_Request.listView-meta.xml
+force-app/main/default/objects/Apttus_Approval__Approval_Request__c/listViews/Level_5_Mfg_Spectra_Approval_Request.listView-meta.xml
+force-app/main/default/objects/Apttus_Approval__Approval_Request__c/listViews/Level_5_Mfg_TDLinx_Approval_Request.listView-meta.xml
+force-app/main/default/objects/Apttus_Approval__Approval_Request__c/listViews/QTC_Approvers_Legal_Approval_Request.listView-meta.xml
+force-app/main/default/objects/Apttus_Approval__Approval_Request__c/listViews/QTC_Approvers_Product_Management_Approval_Request.listView-meta.xml
+force-app/main/default/objects/Apttus_Approval__Approval_Request__c/listViews/QTC_Approvers_Tax_Dept_Approval_Request.listView-meta.xml
+force-app/main/default/objects/Apttus_Config2__AssetLineItem__c/fields/Apttus_Config2__BillingFrequency__c.field-meta.xml
+force-app/main/default/objects/Apttus_Config2__LineItem__c/fields/APTPS_Floor_Adjusted_Price__c.field-meta.xml
+force-app/main/default/objects/Apttus_Config2__LineItem__c/fields/APTPS_Net_Adjustment_Floor__c.field-meta.xml
+force-app/main/default/objects/Apttus_Config2__LineItem__c/fields/Apttus_Config2__BillingFrequency__c.field-meta.xml
+force-app/main/default/objects/Apttus_Config2__LineItem__c/fields/Net_Floor_Price__c.field-meta.xml
+force-app/main/default/objects/Apttus_Config2__OrderLineItem__c/fields/Apttus_Config2__BillingFrequency__c.field-meta.xml
+force-app/main/default/objects/Apttus_Proposal__Proposal_Line_Item__c/fields/Apttus_QPConfig__BillingFrequency__c.field-meta.xml
+force-app/main/default/objects/Apttus_Proposal__Proposal__c/fields/APTPS_Billing_Frequency__c.field-meta.xml
+force-app/main/default/objects/Apttus_Proposal__Proposal__c/fields/APTPS_Generate_Present_Proposal__c.field-meta.xml
+force-app/main/default/objects/Apttus_Proposal__Proposal__c/fields/APTPS_Proposal_Environment__c.field-meta.xml
+force-app/main/default/objects/Apttus_Proposal__Proposal__c/recordTypes/Ad_Hoc.recordType-meta.xml
+force-app/main/default/objects/Apttus_Proposal__Proposal__c/recordTypes/Apttus_Proposal__Proposal.recordType-meta.xml
+force-app/main/default/objects/Apttus_Proposal__Proposal__c/recordTypes/Apttus_Proposal__RFP.recordType-meta.xml
+force-app/main/default/objects/Apttus__APTS_Agreement__c/fields/APTPS_Approval_Termination_Check__c.field-meta.xml
+force-app/main/default/objects/Apttus__APTS_Agreement__c/fields/APTPS_Approval_Termination_Date_Check__c.field-meta.xml
+force-app/main/default/objects/Apttus__APTS_Agreement__c/fields/APTPS_Generate_Button__c.field-meta.xml
+force-app/main/default/objects/Apttus__APTS_Agreement__c/fields/APTPS_GoverningLawCountry__c.field-meta.xml
+force-app/main/default/objects/Apttus__APTS_Agreement__c/fields/APTPS_Governing_Law_Country__c.field-meta.xml
+force-app/main/default/objects/Apttus__APTS_Agreement__c/fields/APTPS_Regenerate_Button__c.field-meta.xml
+force-app/main/default/objects/Apttus__APTS_Agreement__c/fields/APTPS_Send_For_Signatures__c.field-meta.xml
+force-app/main/default/objects/Apttus__APTS_Agreement__c/fields/APTPS_Send_For_eSignature__c.field-meta.xml
+force-app/main/default/objects/Apttus__APTS_Agreement__c/fields/APTPS_Send_for_Review__c.field-meta.xml
+force-app/main/default/objects/Apttus__APTS_Agreement__c/fields/APTPS_Set_Change_Parent_Agreement__c.field-meta.xml
+force-app/main/default/objects/Apttus__APTS_Agreement__c/fields/APTPS_Submit_Request__c.field-meta.xml
+force-app/main/default/objects/Apttus__APTS_Agreement__c/listViews/All.listView-meta.xml
+force-app/main/default/objects/Apttus__APTS_Agreement__c/listViews/Contract_Administrator_APTS_Agreement.listView-meta.xml
+force-app/main/default/objects/Apttus__APTS_Agreement__c/recordTypes/Adhoc.recordType-meta.xml
+force-app/main/default/objects/Apttus__APTS_Agreement__c/recordTypes/General.recordType-meta.xml
+force-app/main/default/objects/Apttus__APTS_Agreement__c/recordTypes/LSA.recordType-meta.xml
+force-app/main/default/objects/Apttus__APTS_Agreement__c/recordTypes/License.recordType-meta.xml
+force-app/main/default/objects/Apttus__APTS_Agreement__c/recordTypes/MSA.recordType-meta.xml
+force-app/main/default/objects/Apttus__APTS_Agreement__c/recordTypes/Merchandising_Services.recordType-meta.xml
+force-app/main/default/objects/Apttus__APTS_Agreement__c/validationRules/APTPS_Company_Signatory_Required.validationRule-meta.xml
+force-app/main/default/objects/Apttus__APTS_Agreement__c/validationRules/APTPS_ExchangeRemix_Serv_DetailRequired.validationRule-meta.xml
+force-app/main/default/objects/Apttus__APTS_Agreement__c/validationRules/Q2C_Governing_Law_State_Provice_Required.validationRule-meta.xml
+force-app/main/default/objects/Apttus__AgreementLineItem__c/fields/Apttus_CMConfig__BillingFrequency__c.field-meta.xml
+force-app/main/default/objects/Campaign/fields/Sales_Org__c.field-meta.xml
+force-app/main/default/objects/Case/businessProcesses/AAS Training Request.businessProcess-meta.xml
+force-app/main/default/objects/Case/businessProcesses/Agency Admin Case support process.businessProcess-meta.xml
+force-app/main/default/objects/Case/businessProcesses/Express Analytics.businessProcess-meta.xml
+force-app/main/default/objects/Case/businessProcesses/SF Support Request.businessProcess-meta.xml
+force-app/main/default/objects/Case/businessProcesses/Station Transaction.businessProcess-meta.xml
+force-app/main/default/objects/Case/businessProcesses/TLR Request.businessProcess-meta.xml
+force-app/main/default/objects/Case/businessProcesses/TSM Support Request.businessProcess-meta.xml
+force-app/main/default/objects/Case/fields/JIRA_Link__c.field-meta.xml
+force-app/main/default/objects/Case/fields/Num_of_Activations_Requested__c.field-meta.xml
+force-app/main/default/objects/Case/fields/Num_of_Deactivations_Requested__c.field-meta.xml
+force-app/main/default/objects/Case/fields/SSC_Platform_for_Database__c.field-meta.xml
+force-app/main/default/objects/Case/fields/SSC_Right_First_Time__c.field-meta.xml
+force-app/main/default/objects/Case/listViews/SSC_IDC_MarsChoc_GCL_Case.listView-meta.xml
+force-app/main/default/objects/Case/listViews/SSC_IDC_MarsFood_GCL_Case.listView-meta.xml
+force-app/main/default/objects/Case/listViews/SSC_IDC_MarsGum_GCL_Case.listView-meta.xml
+force-app/main/default/objects/Case/listViews/SSC_IDC_MarsPet_GCL_Case.listView-meta.xml
+force-app/main/default/objects/Case/listViews/SSC_IDC_MarsWrg_GCL_Case.listView-meta.xml
+force-app/main/default/objects/Contact/fields/Attended_Panel_Plus_presentation_webinar__c.field-meta.xml
+force-app/main/default/objects/Contact/fields/Billing_Contact__c.field-meta.xml
+force-app/main/default/objects/Contact/fields/Citrix_ID__c.field-meta.xml
+force-app/main/default/objects/Contact/fields/Citrix_Password__c.field-meta.xml
+force-app/main/default/objects/Contact/fields/Client_Responsibility__c.field-meta.xml
+force-app/main/default/objects/Contact/fields/Credit_Comm_Optout__c.field-meta.xml
+force-app/main/default/objects/Contact/fields/Credit_Contact__c.field-meta.xml
+force-app/main/default/objects/Contact/fields/Exclude_from_Client_Communications__c.field-meta.xml
+force-app/main/default/objects/Contact/fields/Executive_Contact__c.field-meta.xml
+force-app/main/default/objects/Contact/fields/Function__c.field-meta.xml
+force-app/main/default/objects/Contact/fields/Generalized_Title__c.field-meta.xml
+force-app/main/default/objects/Contact/fields/Grammy_Invite__c.field-meta.xml
+force-app/main/default/objects/Contact/fields/IMSSup_Contact_Picture__c.field-meta.xml
+force-app/main/default/objects/Contact/fields/IMSSup_Family__c.field-meta.xml
+force-app/main/default/objects/Contact/fields/IMSSup_IMS_Contact__c.field-meta.xml
+force-app/main/default/objects/Contact/fields/IMSSup_IT_Conact__c.field-meta.xml
+force-app/main/default/objects/Contact/fields/IMSSup_Industry_Involvement__c.field-meta.xml
+force-app/main/default/objects/Contact/fields/IMSSup_Interests__c.field-meta.xml
+force-app/main/default/objects/Contact/fields/IMSSup_Main_Contact__c.field-meta.xml
+force-app/main/default/objects/Contact/fields/IMSSup_Study_Contact__c.field-meta.xml
+force-app/main/default/objects/Contact/fields/IMSSup_Training__c.field-meta.xml
+force-app/main/default/objects/Contact/fields/Industry_Org_Contact__c.field-meta.xml
+force-app/main/default/objects/Contact/fields/Level_NCTV__c.field-meta.xml
+force-app/main/default/objects/Contact/fields/Local_Alliance__c.field-meta.xml
+force-app/main/default/objects/Contact/fields/Local_Dailies_Contact__c.field-meta.xml
+force-app/main/default/objects/Contact/fields/Local_Overnight_Delays_Notices__c.field-meta.xml
+force-app/main/default/objects/Contact/fields/Local_Policy_Guidelines_Committee_PGC__c.field-meta.xml
+force-app/main/default/objects/Contact/fields/Management_Level__c.field-meta.xml
+force-app/main/default/objects/Contact/fields/Market__c.field-meta.xml
+force-app/main/default/objects/Contact/fields/Media_Ratings_Council_MRC__c.field-meta.xml
+force-app/main/default/objects/Contact/fields/NRS_ContactList__c.field-meta.xml
+force-app/main/default/objects/Contact/fields/Operating_System__c.field-meta.xml
+force-app/main/default/objects/Contact/fields/PRIME_Lingo_Admin__c.field-meta.xml
+force-app/main/default/objects/Contact/fields/PRIME_Lingo_User__c.field-meta.xml
+force-app/main/default/objects/Contact/fields/Phone_x__c.field-meta.xml
+force-app/main/default/objects/Contact/fields/Primary_Contact__c.field-meta.xml
+force-app/main/default/objects/Contact/fields/Qtrly_National_Client_Meeting_Attendee__c.field-meta.xml
+force-app/main/default/objects/Contact/fields/RAC_Member__c.field-meta.xml
+force-app/main/default/objects/Contact/fields/Role__c.field-meta.xml
+force-app/main/default/objects/Contact/fields/Salesforce_Marketing_Cloud_Member_Status__c.field-meta.xml
+force-app/main/default/objects/Contact/fields/Scarborough_Booklet_EMAIL_OPT_OUT__c.field-meta.xml
+force-app/main/default/objects/Contact/fields/Scarborough_Booklet__c.field-meta.xml
+force-app/main/default/objects/Contact/fields/Service_Type__c.field-meta.xml
+force-app/main/default/objects/Contact/fields/Ship_To__c.field-meta.xml
+force-app/main/default/objects/Contact/fields/Training_Contact__c.field-meta.xml
+force-app/main/default/objects/Evidence_Submission__c/Evidence_Submission__c.object-meta.xml
+force-app/main/default/objects/Evidence_Submission__c/webLinks/Delete_Deliveries.webLink-meta.xml
+force-app/main/default/objects/Lead/listViews/Unassigned_Passed_Leads_Lead.listView-meta.xml
+force-app/main/default/objects/Opportunity/fields/AnticipatedPractise_area__c.field-meta.xml
+force-app/main/default/objects/Opportunity/fields/Client_Fund_Opp__c.field-meta.xml
+force-app/main/default/objects/Opportunity/fields/County_Coverage_States__c.field-meta.xml
+force-app/main/default/objects/Opportunity/fields/Group_Contract__c.field-meta.xml
+force-app/main/default/objects/Opportunity/fields/Leadership_Team_2__c.field-meta.xml
+force-app/main/default/objects/Opportunity/fields/Leadership_Team__c.field-meta.xml
+force-app/main/default/objects/Opportunity/fields/Lost_Reason__c.field-meta.xml
+force-app/main/default/objects/Opportunity/fields/MA_Contract_Fulfilled__c.field-meta.xml
+force-app/main/default/objects/Opportunity/fields/MVPD__c.field-meta.xml
+force-app/main/default/objects/Opportunity/fields/Media_Buying_Agency2__c.field-meta.xml
+force-app/main/default/objects/Opportunity/fields/NRS_Account_Type__c.field-meta.xml
+force-app/main/default/objects/Opportunity/fields/Name.field-meta.xml
+force-app/main/default/objects/Opportunity/fields/Probability_Override__c.field-meta.xml
+force-app/main/default/objects/Opportunity/fields/RPD_PPM_Surcharge__c.field-meta.xml
+force-app/main/default/objects/Opportunity/fields/Renewal_Year__c.field-meta.xml
+force-app/main/default/objects/Opportunity/fields/Sales_Group_2__c.field-meta.xml
+force-app/main/default/objects/Opportunity/fields/Starting_Survey__c.field-meta.xml
+force-app/main/default/objects/Opportunity/fields/SubBrand__c.field-meta.xml
+force-app/main/default/objects/Opportunity/fields/US_GMG_Watch__c.field-meta.xml
+force-app/main/default/objects/Opportunity/recordTypes/Amendment_Opportunity_Q2C.recordType-meta.xml
+force-app/main/default/objects/Opportunity/recordTypes/Standard_Opportunity_Q2C.recordType-meta.xml
+force-app/main/default/objects/Opportunity/recordTypes/Watch_Opportunity.recordType-meta.xml
+force-app/main/default/objects/Opportunity/validationRules/CloseDateMonth_must_be_current_or_future.validationRule-meta.xml
+force-app/main/default/objects/Opportunity/validationRules/Goal_Year_Required.validationRule-meta.xml
+force-app/main/default/objects/Opportunity/validationRules/Opportunity_Validate_Billed_Field.validationRule-meta.xml
+force-app/main/default/objects/Opportunity/validationRules/Product_Family_Not_Blank_At_Discovery.validationRule-meta.xml
+force-app/main/default/objects/Opportunity/validationRules/Renewal_Year_Required.validationRule-meta.xml
+force-app/main/default/objects/Opportunity/validationRules/Validation_Rule_for_Watch_Record_Type.validationRule-meta.xml
+force-app/main/default/objects/Opportunity/validationRules/WMG_197_SIPYear1_5.validationRule-meta.xml
+force-app/main/default/objects/Opportunity/validationRules/WMG_198_SIPExp_Contract_Months.validationRule-meta.xml
+force-app/main/default/objects/Opportunity/validationRules/WMG_Lost_Reason_Explanation_Required.validationRule-meta.xml
+force-app/main/default/objects/Opportunity/validationRules/Watch_Product_Exist_For_Opportunity_Rule.validationRule-meta.xml
+force-app/main/default/objects/OpportunityLineItem/fieldSets/PP_EditLineItemFields.fieldSet-meta.xml
+force-app/main/default/objects/OpportunityLineItem/fieldSets/PP_WatchLineItemEdit.fieldSet-meta.xml
+force-app/main/default/objects/OpportunityLineItem/fields/ACV_Override__c.field-meta.xml
+force-app/main/default/objects/OpportunityLineItem/fields/Avg_Contract_Value_Calculated__c.field-meta.xml
+force-app/main/default/objects/OpportunityLineItem/fields/Avg_Contract_Value__c.field-meta.xml
+force-app/main/default/objects/OpportunityLineItem/fields/Billing_Frequency__c.field-meta.xml
+force-app/main/default/objects/OpportunityLineItem/fields/Brand__c.field-meta.xml
+force-app/main/default/objects/OpportunityLineItem/fields/Business__c.field-meta.xml
+force-app/main/default/objects/OpportunityLineItem/fields/Calc_Term_Months__c.field-meta.xml
+force-app/main/default/objects/OpportunityLineItem/fields/Contract_Term_Difference__c.field-meta.xml
+force-app/main/default/objects/OpportunityLineItem/fields/Expiring_Contract_Term_Months__c.field-meta.xml
+force-app/main/default/objects/OpportunityLineItem/fields/PP_Leadership_Team__c.field-meta.xml
+force-app/main/default/objects/OpportunityLineItem/fields/Practice_Area_Formula__c.field-meta.xml
+force-app/main/default/objects/OpportunityLineItem/fields/Practice_Area__c.field-meta.xml
+force-app/main/default/objects/OpportunityLineItem/fields/Product_Country__c.field-meta.xml
+force-app/main/default/objects/OpportunityLineItem/fields/Starting_Survey_Month__c.field-meta.xml
+force-app/main/default/objects/OpportunityLineItem/fields/Sub_Brand_Formula__c.field-meta.xml
+force-app/main/default/objects/OpportunityLineItem/fields/Sub_Brand__c.field-meta.xml
+force-app/main/default/objects/OpportunityLineItem/fields/X3rd_Party_Data_Providers__c.field-meta.xml
+force-app/main/default/objects/Product_Sales_Org__c/fields/Brand__c.field-meta.xml
+force-app/main/default/objects/Product_Sales_Org__c/fields/Buy_Business_Default__c.field-meta.xml
+force-app/main/default/objects/Product_Sales_Org__c/fields/Practice_Area__c.field-meta.xml
+force-app/main/default/objects/Product_Sales_Org__c/fields/Sales_Org__c.field-meta.xml
+force-app/main/default/objects/Product_Sales_Org__c/fields/Sub_Brand__c.field-meta.xml
+force-app/main/default/objects/Product_Sales_Org__c/fields/Watch_Business_Default__c.field-meta.xml
+force-app/main/default/objects/SSC_Request_Task__c/listViews/SSC_IDC_MarsChoc_GCL_SSC_Request_Task.listView-meta.xml
+force-app/main/default/objects/SSC_Request_Task__c/listViews/SSC_IDC_MarsFood_GCL_SSC_Request_Task.listView-meta.xml
+force-app/main/default/objects/SSC_Request_Task__c/listViews/SSC_IDC_MarsGum_GCL_SSC_Request_Task.listView-meta.xml
+force-app/main/default/objects/SSC_Request_Task__c/listViews/SSC_IDC_MarsPet_GCL_SSC_Request_Task.listView-meta.xml
+force-app/main/default/objects/SSC_Request_Task__c/listViews/SSC_IDC_MarsWrg_GCL_SSC_Request_Task.listView-meta.xml
+force-app/main/default/objects/Shipping_Request__c/recordTypes/Shipping_Requests.recordType-meta.xml
+force-app/main/default/objects/Survey_Nielsen__c/fields/Market__c.field-meta.xml
+force-app/main/default/objects/Survey_Nielsen__c/fields/SecondaryMarket__c.field-meta.xml
+force-app/main/default/objects/Survey_Nielsen__c/recordTypes/RT_Survey_Europe.recordType-meta.xml
+force-app/main/default/objects/Trainer_Interactions__c/fields/Class_Title__c.field-meta.xml
+force-app/main/default/objects/Trainer_Interactions__c/fields/Data_Focus__c.field-meta.xml
+force-app/main/default/objects/Trainer_Interactions__c/fields/Software_Focus__c.field-meta.xml
+force-app/main/default/objects/Trainer_Interactions__c/recordTypes/AA_Canada.recordType-meta.xml
+force-app/main/default/objects/Trainer_Interactions__c/recordTypes/AgencyAdvertiser_Syndicated.recordType-meta.xml
+force-app/main/default/objects/Trainer_Interactions__c/recordTypes/Agency_Advertiser_Custom.recordType-meta.xml
+force-app/main/default/objects/Trainer_Interactions__c/recordTypes/Audio_Custom.recordType-meta.xml
+force-app/main/default/objects/Trainer_Interactions__c/recordTypes/Audio_Syndicated.recordType-meta.xml
+force-app/main/default/objects/Trainer_Interactions__c/recordTypes/Digital_Custom.recordType-meta.xml
+force-app/main/default/objects/Trainer_Interactions__c/recordTypes/Digital_Syndicated.recordType-meta.xml
+force-app/main/default/objects/Trainer_Interactions__c/recordTypes/IMS_Trainer_Interaction_Custom.recordType-meta.xml
+force-app/main/default/objects/Trainer_Interactions__c/recordTypes/LocalTV_Custom.recordType-meta.xml
+force-app/main/default/objects/Trainer_Interactions__c/recordTypes/LocalTV_Syndicated.recordType-meta.xml
+force-app/main/default/objects/Trainer_Interactions__c/recordTypes/NationalTV_Custom.recordType-meta.xml
+force-app/main/default/objects/Trainer_Interactions__c/recordTypes/NationalTV_Syndicated.recordType-meta.xml
+force-app/main/default/objects/Trainer_Interactions__c/recordTypes/Newspaper_Custom.recordType-meta.xml
+force-app/main/default/objects/case/fields/AAM__c.field-meta.xml
+force-app/main/default/objects/case/fields/Product_Type__c.field-meta.xml
+force-app/main/default/objects/case/fields/Product__c.field-meta.xml
+force-app/main/default/pages/APTPS_Category.page
+force-app/main/default/pages/APTPS_ViewDeliveryBillingSchedules.page
+force-app/main/default/pages/DeleteDeliveries.page
+force-app/main/default/pages/DeleteDeliveries.page-meta.xml
+force-app/main/default/pages/ProductPicker.page
+force-app/main/default/pathAssistants/Nielsen_Amendment_Q2C.pathAssistant-meta.xml
+force-app/main/default/pathAssistants/Nielsen_Standard.pathAssistant-meta.xml
+force-app/main/default/pathAssistants/Nielsen_Standard_Q2C.pathAssistant-meta.xml
+force-app/main/default/permissionsets/APTPS_Approver_Admin.permissionset-meta.xml
+force-app/main/default/permissionsets/APTPS_Base_Agreement_Read_Only_Access.permissionset-meta.xml
+force-app/main/default/permissionsets/APTPS_Base_Agreement_Read_and_Write_Access.permissionset-meta.xml
+force-app/main/default/permissionsets/APTPS_Base_Proposal_Read_Only_Access.permissionset-meta.xml
+force-app/main/default/permissionsets/APTPS_Base_Proposal_Read_and_Write_Access.permissionset-meta.xml
+force-app/main/default/permissionsets/APTPS_Billing_Admin.permissionset-meta.xml
+force-app/main/default/permissionsets/APTPS_CPQ_Product_and_Pricing_Admin.permissionset-meta.xml
+force-app/main/default/permissionsets/APTPS_Contract_Administrator.permissionset-meta.xml
+force-app/main/default/permissionsets/APTPS_Product_Collaboration_User.permissionset-meta.xml
+force-app/main/default/permissionsets/APTPS_Proposal_Agreement_Approver.permissionset-meta.xml
+force-app/main/default/permissionsets/APTPS_Sales_Rep.permissionset-meta.xml
+force-app/main/default/permissionsets/APTPS_X_Author_Admin.permissionset-meta.xml
+force-app/main/default/permissionsets/Edit_Access_to_Media_Analytics_Role_Users.permissionset-meta.xml
+force-app/main/default/permissionsets/Practice_Area_Leaders.permissionset-meta.xml
+force-app/main/default/permissionsets/WMG_393_Project_Manager_User.permissionset-meta.xml
+force-app/main/default/permissionsets/Watch_Campaign_Creation_Permission_Set.permissionset-meta.xml
+force-app/main/default/profiles/Billing User.profile-meta.xml
+force-app/main/default/profiles/Commercial Manager.profile-meta.xml
+force-app/main/default/profiles/Commercial User.profile-meta.xml
+force-app/main/default/profiles/ContractManager.profile-meta.xml
+force-app/main/default/profiles/Custom System Administrator.profile-meta.xml
+force-app/main/default/profiles/Finance User.profile-meta.xml
+force-app/main/default/profiles/MarketingProfile.profile-meta.xml
+force-app/main/default/profiles/Nielsen - Marketing User.profile-meta.xml
+force-app/main/default/profiles/Watch Administrator.profile-meta.xml
+force-app/main/default/profiles/Watch Audio Manager.profile-meta.xml
+force-app/main/default/profiles/Watch Audio User.profile-meta.xml
+force-app/main/default/profiles/Watch Manager.profile-meta.xml
+force-app/main/default/profiles/Watch User %28Chatter Only%29.profile-meta.xml
+force-app/main/default/profiles/Watch User.profile-meta.xml
+force-app/main/default/profiles/z Integration User - Boomi.profile-meta.xml
+force-app/main/default/profiles/z Integration User - CICD.profile-meta.xml
+force-app/main/default/profiles/z Integration User - Click Tools.profile-meta.xml
+force-app/main/default/profiles/z Integration User - GCD.profile-meta.xml
+force-app/main/default/profiles/z Integration User - Pardot.profile-meta.xml
+force-app/main/default/profiles/z Integration User - SAP.profile-meta.xml
+force-app/main/default/profiles/z Integration User - SSC Ops.profile-meta.xml
+force-app/main/default/profiles/z Integration User - SailPoint.profile-meta.xml
+force-app/main/default/queues/APTPS_Agreement_Termination_Approvers.queue-meta.xml
+force-app/main/default/queues/SSC_IDC_MarsChoc_GCL.queue-meta.xml
+force-app/main/default/queues/SSC_LATAM_CO_BAU.queue-meta.xml
+force-app/main/default/queues/SSC_LATAM_CO_DEV.queue-meta.xml
+force-app/main/default/queues/SSC_LATAM_CO_RL.queue-meta.xml
+force-app/main/default/queues/SSC_LATAM_CO_SD.queue-meta.xml
+force-app/main/default/queues/SSC_NOC_RD_BE.queue-meta.xml
+force-app/main/default/queues/SSC_NOC_RD_NL.queue-meta.xml
+force-app/main/default/queues/Watch_Contract_Admin.queue-meta.xml
+force-app/main/default/quickActions/Create_New_Contact.quickAction-meta.xml
+force-app/main/default/quickActions/NewEvent.quickAction-meta.xml
+force-app/main/default/sharingRules/Opportunity.sharingRules-meta.xml
+force-app/main/default/tabs/Shipping_Request__c.tab-meta.xml
+force-app/main/default/workflows/Apttus_Approval__Approval_Request__c.workflow-meta.xml
+force-app/main/default/workflows/Case.workflow-meta.xml
+force-app/main/default/workflows/Opportunity.workflow-meta.xml
+force-app/main/default/workflows/Survey_Response__c.workflow-meta.xml
+temp/custompackage.xml
+temp/package.xml

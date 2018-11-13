@@ -71,4 +71,20 @@ foreach($FileName in Get-Content 'new-packagefile/diffnames.txt')
 
 }
 
+
+# Convert MemberObject array to package file nodes
+$MemberObjects | Group-Object -Property ObjectType | 
+        ForEach-Object { 
+           $Element = "<types>`r`n"
+           $Element += "   <name>$($_.Name)</name>`r`n"
+
+           foreach($item in $_.Group){
+              $Element += "   <member>$($item.Member)</member>`r`n"
+           }
+
+           $Element += "</types>`r`n"
+
+           $NewPackageFile += $Element
+        }
+
 $NewPackageFile += "    <version>43.0</version>`r`n</Package>"
